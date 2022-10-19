@@ -548,7 +548,7 @@ svg path {
         left: 25%;
     }
 }
-@media only screen and (max-width: 790px) {
+@media only screen and (max-width: 900px) {
     #two {
         display: flex;
         flex-direction: column;
@@ -571,7 +571,7 @@ svg path {
     }
 }
 
-@media only screen and (min-width: 790px) {
+@media only screen and (min-width: 900px) {
     body {
         overflow: hidden;
     }
