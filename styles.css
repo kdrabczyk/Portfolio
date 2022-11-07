@@ -215,6 +215,7 @@ html {
     width: 20vw;
     max-width: 500px;
     border-radius: 10px;
+    height:20vh;
 }
 .portfolio-element{
     border-radius: 10px;
